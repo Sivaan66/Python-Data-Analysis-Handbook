@@ -214,5 +214,4 @@ If you find this handbook useful:
 * 🤝 Contribute corrections or enhancements through pull requests.
 
 Together, we can build a comprehensive, community-friendly reference for Python Data Analysis and Data Science.
-# Python-Data-Analysis-Handbook
 
